@@ -1,0 +1,31 @@
+body {
+    background-color: #000022;
+    color: #FFFFFF;
+}
+
+.carousel {
+    height: 90px;
+    margin: auto;
+    margin-top: 40px;
+    width: 90%;
+    padding: auto;
+}
+
+.carousel img {
+    height: 90px;
+    width: 160px;
+    display: inline-block;
+    margin-left: 60px;
+}
+
+.picture {
+    margin-top: 80px;
+    width: 100%;
+}
+
+.picture img {
+    display: block;
+    height: 540px;
+    width: 960px;
+    margin: auto;
+}
