@@ -1,6 +1,14 @@
-# electron-quick-start
+# Arcade Nomad - Soft for arcade machine management
 
-**Clone and run for a quick way to see Electron in action.**
+This is the application developed to monitor games on arcade machines ran by Arcade Nomad.
+It is developed with the [Electron framework](https://electronjs.org) in order to easily run on any OS while giving a modern front.
+
+To setup the application, please follow the instructions below, taken from the [electron-quick-start tutorial](https://github.com/electron/electron-quick-start). 
+
+Please note that you need to install Node.js before proceeding to the installation.
+
+
+**Pull and run**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
 
@@ -20,9 +28,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/Excilyano/ArcadeNomad.git
 # Go into the repository
-cd electron-quick-start
+cd ArcadeNomad
 # Install dependencies
 npm install
 # Run the app
